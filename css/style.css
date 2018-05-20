@@ -41,9 +41,9 @@ h2 {
 
 h3 {
   font-style: italic;
-  font-size: 20px;
+  font-size: 16px;
   color: #000;
-  line-height: 22px;
+  line-height: 18px;
 }
 
 h4 {
@@ -169,6 +169,7 @@ img {
 
 span {
   padding: 5px;
+  font-weight: bold;
 }
 
 #lets-connect {
